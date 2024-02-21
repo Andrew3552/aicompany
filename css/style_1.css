@@ -185,3 +185,18 @@ footer .site-description {
         margin-bottom: 50px;
     }
 }
+
+.imageContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content__image{
+    width: 30%;
+    height: 10%;
+}
+
+.loadMore{
+    margin-top: 10px;
+}
