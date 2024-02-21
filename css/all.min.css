@@ -4406,7 +4406,7 @@
     font-family: "Lato", sans-serif;
     font-weight: 700;
     font-style: normal;
-    font-size: 19px;
+    font-size: 25px;
   }
 
 @font-face {
@@ -4444,4 +4444,12 @@
 
 .loadMore{
     margin-top: 10px;
+}
+
+
+@media screen and (MAX-width: 430px) {
+    .lato-bold{
+        font-size: 10px;
+    }
+    
 }
